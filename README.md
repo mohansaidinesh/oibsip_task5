@@ -12,3 +12,8 @@ their future sales with every step they take to manipulate the cost of advertisi
 product. So let’s start the task of sales prediction with machine learning using Python.
 
 DataSet : https://www.kaggle.com/datasets/bumba5341/advertisingcsv
+
+
+
+
+[screen-capture.webm](https://user-images.githubusercontent.com/85325733/213906858-e50dc8b6-a537-4524-9e79-e27d2d02f9ca.webm)
